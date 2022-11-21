@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/media
+*.db.sqlite3
+# testing
+# production
+*/pre_trained
+# misc
+*/pycach
